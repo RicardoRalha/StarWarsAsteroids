@@ -1,0 +1,11 @@
+﻿  TP3.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: '__useHeader': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\sal.h(2866): note: see previous definition of '__useHeader'
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: '__on_failure': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\sal.h(2876): note: see previous definition of '__on_failure'
+d:\documents\faculdade\4ºano\2ºsemestre\computação gráfica\tp3\cg_11\cg_11\tp3.cpp(479): warning C4804: '>=': unsafe use of type 'bool' in operation
+d:\documents\faculdade\4ºano\2ºsemestre\computação gráfica\tp3\cg_11\cg_11\tp3.cpp(706): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'short *'
+  d:\documents\faculdade\4ºano\2ºsemestre\computação gráfica\tp3\cg_11\cg_11\tp3.cpp(706): note: consider using '%hd' in the format string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1202,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  CG_11.vcxproj -> D:\Documents\Faculdade\4ºAno\2ºSemestre\Computação Gráfica\TP3\CG_11\Debug\CG_11.exe
+  CG_11.vcxproj -> D:\Documents\Faculdade\4ºAno\2ºSemestre\Computação Gráfica\TP3\CG_11\Debug\CG_11.pdb (Partial PDB)
